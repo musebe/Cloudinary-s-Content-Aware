@@ -21,7 +21,7 @@ to perfectly fit any layout and device.
 
 ## PHPSandbox and Github
 
-The final project can be viewed on [PHPSandbox](https://phpsandbox.io/e/x/nuopv?&layout=EditorPreview&iframeId=61ihmshq1o&theme=dark&defaultPath=/&showExplorer=no&openedFiles=/app/Http/Livewire/FileUpload.php) and the entire source code is available on my [Github](https://github.com/victorokech/cloudinary-content-aware) repository.
+The final project can be viewed on [PHPSandbox](https://phpsandbox.io/e/x/nuopv?&layout=EditorPreview&iframeId=61ihmshq1o&theme=dark&defaultPath=/&showExplorer=no&openedFiles=/app/Http/Livewire/FileUpload.php) and the entire source code is available on my [Github](https://github.com/musebe/Cloudinary-s-Content-Aware) repository.
 
 ## Prerequisites
 
